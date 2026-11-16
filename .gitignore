@@ -1,0 +1,6 @@
+PAMAP2_Dataset/
+Data_old/
+*.dat
+*.parquet
+.DS_Store
+.ipynb_checkpoints/

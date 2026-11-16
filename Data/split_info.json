@@ -1,0 +1,20 @@
+{
+    "dataset": "PAMAP2 Protocol, downsampled to 10 Hz",
+    "training_participants": [
+        "subject101",
+        "subject102",
+        "subject105",
+        "subject106",
+        "subject107",
+        "subject108",
+        "subject109"
+    ],
+    "reporting_participants": [
+        "subject103",
+        "subject104"
+    ],
+    "training_rows": 229015,
+    "reporting_rows": 58242,
+    "training_percentage": 79.72,
+    "reporting_percentage": 20.28
+}
