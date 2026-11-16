@@ -1,5 +1,7 @@
 PAMAP2_Dataset/
 Data_old/
+Data_80_20/
+reproduced_data/
 *.dat
 *.parquet
 .DS_Store
